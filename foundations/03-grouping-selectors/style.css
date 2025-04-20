@@ -1,0 +1,14 @@
+button {
+    font-family: helvetica, "times new roman", sans-serif;
+    font-size: 28px;
+}
+
+.click-me {
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    font-weight: bolt;
+}
+
+.no-click-me {
+    background-color: #ffff00;
+}
